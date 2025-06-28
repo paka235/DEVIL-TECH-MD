@@ -63,6 +63,7 @@
     "tough-cookie": "latest",
     "async-g-i-s": "^1.5.5",
     "jimp": "0.16.1",
+    "@vreden/youtube_scraper":"1.2.7",
     "node-cache": "latest",
     "human-readable": "latest"
   }
