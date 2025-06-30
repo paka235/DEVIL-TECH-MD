@@ -61,6 +61,7 @@
     "buffer": "6.0.3",
     "axios-cookiejar-support": "latest",
     "tough-cookie": "latest",
+    "@vreden/youtube_scraper":"latest",
     "async-g-i-s": "^1.5.5",
     "jimp": "0.16.1",
     "node-cache": "latest",
